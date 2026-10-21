@@ -1,6 +1,6 @@
 package Loop.DoWhile;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class DoWhile {
     public static void main(String[] args) {
